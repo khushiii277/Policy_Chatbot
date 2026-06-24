@@ -12,6 +12,7 @@ An AI-powered corporate assistant built with **FastAPI**, **LangGraph**, and **A
 1. Clone the repository
 
 git clone [https://github.com/khushiii277/Policy_Chatbot.git](https://github.com/khushiii277/Policy_Chatbot.git)
+
 cd Policy_Chatbot
 
 2. Set up the virtual environment
