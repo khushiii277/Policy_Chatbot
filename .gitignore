@@ -11,7 +11,6 @@ __pycache__/
 *$py.class
 
 # Project Specific: Do NOT upload company documents or the massive vector database
-data/policies/
 vector_store/
 
 # OS Generated Files
