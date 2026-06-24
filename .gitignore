@@ -1,0 +1,19 @@
+# Local Environment Variables (CRITICAL)
+.env
+
+# Virtual Environments
+venv/
+env/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Project Specific: Do NOT upload company documents or the massive vector database
+data/policies/
+vector_store/
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
